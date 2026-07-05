@@ -7,13 +7,22 @@ permalink: /publications/
 
 # Publications
 
-## Selected Publications
+### Checked-In Secret Detection: Strings are All You Need?
+
+ZhengDong Huang, Kevin Li, et al.
+**Co-First Author**
+*ISSTA 2026*
+
+An empirical study examining different secret detection techniques when applied to Android apps in APK format. The work analyzes the limitations of existing approaches and proposes new research directions.
+
+
+---
 
 ### Automatically Detecting Checked-In Secrets in Android Apps: How Far Are We?
 
 Kevin Li, et al.
 **First Author**
-*Submitted to EMSE 2025, under major revision.*
+*EMSE 2025*
 
 An empirical study examining different secret detection techniques when applied to Android apps in APK format. The work analyzes the limitations of existing approaches and proposes new research directions.
 
