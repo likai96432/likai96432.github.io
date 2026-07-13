@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Contact
 
-Email: your.email@example.com
+Email: kevin.li3@mail.mcgill.ca
 
 GitHub: [likai96432](https://github.com/likai96432)
 
