@@ -8,4 +8,4 @@ permalink: /cv/
 
 You can download my CV here:
 
-[Download CV](/assets/cv.pdf)
+[Download CV](resume_kevin_li.pdf)
