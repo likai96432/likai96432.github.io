@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Checked-In Secret Detection: Strings are All You Need?
 
-ZhengDong Huang, Kevin Li, et al.
+ZhengDong Huang, Kevin Li, Jinqiu Yang, Yepang Liu, Lili Wei.
 **Co-First Author**
 *ISSTA 2026*
 
@@ -20,7 +20,7 @@ An empirical study examining different secret detection techniques when applied 
 
 ### Automatically Detecting Checked-In Secrets in Android Apps: How Far Are We?
 
-Kevin Li, et al.
+Kevin Li, Lin Ling, Jinqiu Yang, Lili Wei
 **First Author**
 *EMSE 2025*
 
@@ -32,7 +32,7 @@ An empirical study examining different secret detection techniques when applied 
 
 ### Demystifying Device-Specific Compatibility Issues in Android Apps
 
-Kevin Li, et al.
+Junfeng Chen, Kevin Li, Yifei Chen, Lili Wei, Yepang Liu
 **Second Author**
 *ICSME 2024.*
 
@@ -44,7 +44,7 @@ An empirical study examining the characteristics of device-specific compatibilit
 
 ### How Far Are App Secrets from Being Stolen? A Case Study on Android
 
-Kevin Li, et al.
+Junfeng Chen, Kevin Li, Yifei Chen, Lili Wei, Yepang Liu
 **Fourth Author**
 *EMSE 2025.*
 
