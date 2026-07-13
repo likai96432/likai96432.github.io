@@ -6,7 +6,7 @@ title: Home
 # Kevin Li
 
 
-I am a graduate student at McGill University working on software security and agentic AI risks.
+I am a first year PhD Candidate at McGill University's ECE departement working on software security and agentic AI risks under the supervision of Prof Lili Wei.
 
 My research focuses on understanding, evaluating, and mitigating risks in modern AI and software systems, especially agentic AI systems and security-sensitive software engineering workflows.
 
