@@ -39,8 +39,3 @@ The current direction explores:
 - Generated method-name replacement
 - LLM-based summary evaluation
 
-## LLM Game Agents
-
-A project exploring LLM-based agents for game testing and game interaction.
-
-The agent uses planning, execution, memory, and persona-based exploration strategies.
