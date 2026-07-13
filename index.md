@@ -4,8 +4,9 @@ title: Home
 ---
 
 # Kevin Li
+![Kevin Li]({{ '/assets/images/profile.jpg' | relative_url }})
 
-I am a graduate student at McGill University working on AI security, agentic AI risks, and software engineering.
+I am a graduate student at McGill University working on software security and agentic AI risks.
 
 My research focuses on understanding, evaluating, and mitigating risks in modern AI and software systems, especially agentic AI systems and security-sensitive software engineering workflows.
 
@@ -13,7 +14,6 @@ My research focuses on understanding, evaluating, and mitigating risks in modern
 
 - Agentic AI risk protection
 - AI security and governance
-- Software engineering
 - Code summarization under obfuscation
 - Android secret leakage detection
 
