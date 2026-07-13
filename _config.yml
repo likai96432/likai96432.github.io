@@ -2,9 +2,8 @@ title: Kevin Li
 description: AI Security | Agentic AI Risk | Software Engineering
 theme: minima
 
-author:
-  name: Kevin Li
-  email: your.email@example.com
+author: Kevin Li
+email: your.email@example.com
 
 header_pages:
   - research.md
