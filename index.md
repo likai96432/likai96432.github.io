@@ -2,7 +2,7 @@
 layout: home
 title: Kevin Li | McGill University
 ---
-
+<img src="profile.jpg" alt="Kevin Li" width="220" style="border-radius: 50%;">
 # Kevin Li
 
 
