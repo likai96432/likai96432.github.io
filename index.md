@@ -2,9 +2,9 @@
 layout: home
 title: Kevin Li | McGill University
 ---
-<img src="profile.jpg" alt="Kevin Li" width="220" style="border-radius: 50%;">
-# Kevin Li
 
+# Kevin Li
+<img src="profile.jpg" alt="Kevin Li" width="220" style="border-radius: 50%;">
 
 I am a first year PhD Candidate at McGill University's ECE departement working on software security and agentic AI risks under the supervision of Prof Lili Wei.
 
