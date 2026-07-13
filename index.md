@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Kevin Li
-![Kevin Li]({{ '/assets/images/profile.jpg' | relative_url }})
+
 
 I am a graduate student at McGill University working on software security and agentic AI risks.
 
