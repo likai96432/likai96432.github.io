@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Kevin Li | McGill University
 ---
 
 # Kevin Li
